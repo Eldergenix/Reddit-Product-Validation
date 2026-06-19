@@ -1,0 +1,71 @@
+{
+  "name": "reddit-product-validation",
+  "version": "1.0.0",
+  "description": "Eldergenix product validation workspace for turning Reddit community signals into founder-ready market insights.",
+  "author": "Eldergenix",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldergenix/Reddit-Product-Validation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eldergenix/Reddit-Product-Validation/issues"
+  },
+  "homepage": "https://github.com/Eldergenix/Reddit-Product-Validation#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "class-variance-authority": "latest",
+    "clsx": "^2.1.1",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwind-merge": "^3.3.1",
+    "@ai-sdk/react": "3.0.43",
+    "@upstash/ratelimit": "latest",
+    "@upstash/redis": "latest",
+    "ai": "6.0.97",
+    "recharts": "latest",
+    "sonner": "latest",
+    "zod": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-tooltip": "latest",
+    "@radix-ui/react-accordion": "latest",
+    "@radix-ui/react-collapsible": "latest",
+    "@radix-ui/react-separator": "latest",
+    "@radix-ui/react-hover-card": "latest",
+    "@radix-ui/react-progress": "latest",
+    "embla-carousel-react": "latest",
+    "radix-ui": "latest",
+    "react-resizable-panels": "latest",
+    "@radix-ui/react-scroll-area": "latest",
+    "@radix-ui/react-select": "latest",
+    "cmdk": "latest",
+    "@radix-ui/react-dialog": "latest",
+    "@radix-ui/react-dropdown-menu": "latest",
+    "@xyflow/react": "latest",
+    "@radix-ui/react-use-controllable-state": "latest",
+    "hast": "latest",
+    "shiki": "latest",
+    "tokenlens": "latest",
+    "use-stick-to-bottom": "latest",
+    "motion": "latest",
+    "streamdown": "latest",
+    "nanoid": "latest"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6",
+    "tailwindcss": "^4",
+    "tw-animate-css": "^1.3.6",
+    "typescript": "^5"
+  }
+}
